@@ -8,10 +8,10 @@
 
 
 ## 图示
-<div style="display: flex; gap: 15px;">
- <img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_01.jpg" width="250" alt="软件界面截图1" />
- <img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_02.jpg" width="250" alt="软件界面截图2" />
- <img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_03.jpg" width="250" alt="软件界面截图3" />
+<div style="display: flex; gap: 35px;">
+ <img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_01.jpg" width="250">
+ <img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_02.jpg" width="250">
+ <img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_03.jpg" width="250">
 </div> 
 
 ## 感谢
