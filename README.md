@@ -7,11 +7,15 @@
 祝漫友使用愉快！
 
 ## 图示：字体由设备系统决定
-<div style="display: flex; gap: 100px;">
- <img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_01.jpg" width="250">
- <img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_02.jpg" width="250">
- <img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_03.jpg" width="250">
-</div> 
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_01.jpg" width="250"></td>
+    <td width="20"></td>
+    <td><img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_02.jpg" width="250"></td>
+    <td width="20"></td>
+    <td><img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_03.jpg" width="250"></td>
+  </tr>
+</table>
 
 ## 感谢
 * https://dacota.tw/
