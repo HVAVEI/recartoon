@@ -22,6 +22,8 @@
 * https://www.gdaily.org/
 * https://github.com/TongmingWu/Manga
 
+## 请我喝咖啡
+<img src="https://raw.githubusercontent.com/hvavei/recartoon/d91d7954632c78a04ababab82ecb0e77cefad5af/wxheart.png" width="250">
 
 ## 目前支援网站
 
