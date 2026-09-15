@@ -1,14 +1,13 @@
 
-# recartoon
+# recartoon简介
 全是漫画[cartoon](https://github.com/hongchacha/cartoon)是非常棒的项目，但原作者hongchacha已无限期搁置，源文件无法在Android 12+以上的设备使用。出于个人需求和漫友诉求，接棒该项目：[cartoon](https://github.com/hongchacha/cartoon)。若产生侵权，请作者联系我，删除此项目。
 为了便于漫友区分，此项目取名：重置漫画[recartoon]，向原作者致敬[抱拳]。
 适配了Android 12及以上的所有设备，带来漫友一直心心念念的简中界面。
 好的产品离不开用户的支持与鞭策，有任何问题与好的想法，请漫友一定及时向我反馈。
 祝漫友使用愉快！
 
-
-## 图示
-<div style="display: flex; gap: 35px;">
+## 图示：字体由设备系统决定
+<div style="display: flex; gap: 100px;">
  <img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_01.jpg" width="250">
  <img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_02.jpg" width="250">
  <img src="https://raw.githubusercontent.com/hvavei/recartoon/dd99ad875335d848a8e4898e2c55c72dbcc84bf1/recartoon_03.jpg" width="250">
