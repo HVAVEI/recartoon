@@ -23,7 +23,7 @@
 * https://github.com/TongmingWu/Manga
 
 ## 请我喝咖啡
-<img src="https://raw.githubusercontent.com/hvavei/recartoon/d91d7954632c78a04ababab82ecb0e77cefad5af/wxheart.png" width="250">
+<img src="https://raw.githubusercontent.com/hvavei/recartoon/b045cd517c0843036659c34cde5962e73bdca1e5/red_heart.png" width="250">
 
 ## 目前支援网站
 
