@@ -5,8 +5,6 @@
 好的产品离不开用户的支持与鞭策，有任何问题与好的想法，请漫友一定及时向我反馈。
 祝漫友使用愉快！
 
-## 图示
-<img src="https://raw.githubusercontent.com/hongchacha/cartoon/master/screenshot.jpg" width="300" >
 
 ## 感谢
 * https://dacota.tw/
