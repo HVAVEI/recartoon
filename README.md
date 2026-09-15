@@ -6,6 +6,9 @@
 祝漫友使用愉快！
 
 
+## 图示
+<img src="https://raw.githubusercontent.com/hongchacha/cartoon/master/screenshot.jpg" width="300" >
+
 ## 感谢
 * https://dacota.tw/
 * https://www.gdaily.org/
@@ -328,4 +331,3 @@
 [酷漫屋 http://m.kuman55.com](http://m.kuman55.com)  
 [漫画160 https://m.mh160.xyz](https://m.mh160.xyz)  
 [漫画猫 https://www.manhuacat.com](https://www.manhuacat.com)
-
