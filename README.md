@@ -22,8 +22,7 @@
 * https://www.gdaily.org/
 * https://github.com/TongmingWu/Manga
 
-## 请我喝咖啡
-<img src="https://raw.githubusercontent.com/hvavei/recartoon/b045cd517c0843036659c34cde5962e73bdca1e5/red_heart.png" width="250">
-
 ## [网站导航](https://hvavei.github.io/recartoon)
 
+## 请我喝咖啡
+<img src="https://raw.githubusercontent.com/hvavei/recartoon/b045cd517c0843036659c34cde5962e73bdca1e5/red_heart.png" width="250">
