@@ -26,3 +26,7 @@
 
 ## 请我喝咖啡
 <img src="https://raw.githubusercontent.com/hvavei/recartoon/b045cd517c0843036659c34cde5962e73bdca1e5/red_heart.png" width="250">
+
+## Star 趋势
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hvavei/recartoon&type=Date)](https://star-history.com/#hvavei/recartoon&Date)
